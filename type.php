@@ -1,0 +1,12 @@
+<option value="" hidden>Type d'évènement</option>
+<option value="Musique">Musique</option>
+<option value="Gastronomie">Gastronomie</option>
+<option value="Film et médias">Film et médias</option>
+<option value="Mode">Mode</option>
+<option value="Loisirs">Loisirs</option>
+<option value="Arts du spectacle et de la scène">Arts du spectacle et de la scène</option>
+<option value="Sports">Sports</option>
+<option value="Santé">Santé</option>
+<option value="Œuvres de bienfaisance">Œuvres de bienfaisance</option>
+<option value="Activités de plein air">Activités de plein air</option>
+<option value="Autre">Autre</option>
